@@ -1,0 +1,18 @@
+.main {
+    width: 70%;
+    margin: 100px auto;
+  }
+  
+  .form-control:focus {
+    box-shadow: none !important;
+  }
+  
+  .btn:focus {
+    box-shadow: none !important;
+  }
+  
+  .btn-outline-secondary:focus {
+    box-shadow: none !important;
+  }
+
+  
